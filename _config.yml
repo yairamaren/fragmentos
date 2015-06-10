@@ -1,0 +1,11 @@
+# Site settings
+title: Fragmentos del Patio
+email: yairamaren@berkeley.edu
+description:  Sujetos post-nacionales del S.21, Puerto Rico 
+baseurl: "" 
+url: "http://yourdomain.com" 
+twitter_username: yairamaren
+
+
+# Build settings
+markdown: kramdown
